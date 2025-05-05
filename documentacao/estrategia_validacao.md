@@ -40,7 +40,3 @@ As consultas SQL abaixo estão disponíveis em `sql/consultas.sql` e podem ser u
 
 4. **Discrepâncias em Ordens de Compra**:
    - Identifica ordens de compra onde a quantidade pedida não corresponde à quantidade recebida.
-
-## Considerações Finais
-
-A estratégia foi planejada para ser prática e clara, permitindo que o cliente valide os dados de forma eficiente. As consultas SQL fornecidas em `sql/consultas.sql` são fáceis de executar, e os resultados podem ser apresentados em tabelas para facilitar a discussão. Recomenda-se levar exemplos de registros para a reunião, como uma nota fiscal ou um pedido de compra, para confirmar a exatidão dos dados.
